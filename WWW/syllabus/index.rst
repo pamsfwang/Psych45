@@ -17,7 +17,7 @@ Anthony Wagner     awagner                    Tues 11am-12pm                    
 Ellie Chestnut     ekc                        Thurs 2-3pm                          Jordan Hall, Rm 292
 Stephanie Gagnon   sgagnon                    Wed 9:30-10:30am                     Jordan Hall, Rm 404
 Karen LaRocque     klarocqu                   By appointment                       Jordan Hall, Rm 404
-Jim Sorenson       sorensje                   Fri 10-11am                          Jordan Hall, Rm 292
+Jim Sorenson       sorensje                   Fri 10-11am                          Jordan Hall, Rm 169
 =================  =========================  ===================================  ====================
 
 **Head TA**: Karen LaRocque
@@ -186,7 +186,7 @@ Apr 9     Working memory II                          \
 
 Apr 14    Cognitive control and memory I             \                                   Optional: Memory at the Movies I
 
-										         - *Roshomon* @ 7PM, Hewlett 201
+										         - *Roshomon* @ 7PM, Jordan Hall 419
 
 
 Apr 16    Cognitive control and memory II            \
