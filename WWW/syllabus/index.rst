@@ -103,10 +103,10 @@ Wagner, LaRocque, and one additional TA will host 5 Learning and Memory
 Cafes (LMCs). The LMCs will provide up to 15 students per meeting the opportunity to discuss topics of
 interest in learning and memory. At each LMC, attendees are invited to bring their questions,
 observations, and general thoughts about learning and memory to the group. We will be there with coffee,
-tea, and snacks, along with a willingness to engage with your topics of interest. 
+tea, and snacks, along with a willingness to engage with your topics of interest.
 
 The dates for the LMCs are below.
-You can sign up `here <https://docs.google.com/spreadsheets/d/1S1x6355acpR6Zc8gkTqQTeLDOutp7xxxEXEBjerzjBk/edit?usp=sharing>`_. 
+You can sign up `here <https://docs.google.com/spreadsheets/d/1S1x6355acpR6Zc8gkTqQTeLDOutp7xxxEXEBjerzjBk/edit?usp=sharing>`_.
 Please join us!
 
 
@@ -118,34 +118,34 @@ Learning & Memory Café Schedule
 Date        Time    Who             Location
 ==========  ======= =============== ===============================================================================
 Apr 8 (W)   3-4pm    AW, KL, & EC   Meet at the front entrance of Jordan Hall (facing the oval).
- 
+
                                     If the weather is good, we'll head to the picnic tables outside of Jordan Hall.
- 
+
                                     If not, Jordan Hall 286.
-                                    
-Apr 20 (M)  4-5pm    AW, KL, & JS   Meet at the front entrance of Jordan Hall (facing the oval). 
 
-                                    If the weather is good, we'll head to the picnic tables outside of Jordan Hall. 
+Apr 20 (M)  4-5pm    AW, KL, & JS   Meet at the front entrance of Jordan Hall (facing the oval).
 
-                                    If not, Jordan Hall 417.  
+                                    If the weather is good, we'll head to the picnic tables outside of Jordan Hall.
 
-May 5 (Tu)  3-4pm    AW, KL, & EC   Meet at the front entrance of Jordan Hall (facing the oval). 
+                                    If not, Jordan Hall 417.
 
-                                    If the weather is good, we'll head to the picnic tables outside of Jordan Hall. 
+May 5 (Tu)  3-4pm    AW, KL, & EC   Meet at the front entrance of Jordan Hall (facing the oval).
 
-                                    If not, 90-92Q. 
+                                    If the weather is good, we'll head to the picnic tables outside of Jordan Hall.
 
-May 15 (F)  9-10am   AW, KL, & SG   Meet at the front entrance of Jordan Hall (facing the oval). 
+                                    If not, 90-92Q.
 
-                                    If the weather is good, we'll head to the picnic tables outside of Jordan Hall. 
+May 15 (F)  9-10am   AW, KL, & SG   Meet at the front entrance of Jordan Hall (facing the oval).
 
-                                    If not, Jordan Hall 417.  
+                                    If the weather is good, we'll head to the picnic tables outside of Jordan Hall.
 
-May 29 (F)  9-10am   AW, KL, & SG   Meet at the front entrance of Jordan Hall (facing the oval). 
+                                    If not, Jordan Hall 417.
 
-                                    If the weather is good, we'll head to the picnic tables outside of Jordan Hall. 
+May 29 (F)  9-10am   AW, KL, & SG   Meet at the front entrance of Jordan Hall (facing the oval).
 
-                                    If not, Jordan Hall 417.  
+                                    If the weather is good, we'll head to the picnic tables outside of Jordan Hall.
+
+                                    If not, Jordan Hall 417.
 ==========  ======= =============== ===============================================================================
 
 
@@ -171,41 +171,43 @@ Schedule
 --------------------------------------------
 
 .. cssclass:: table-hover
-========  =========================================  ==================================  =======================================
-Date      Topic                                      Reading                             Other
-========  =========================================  ==================================  =======================================
-Mar 31    Introduction to memory                     Ch. 1                               \
 
-Apr 2     Experimental methods                       Ch. 2
+========  =========================================  =================================================      ====================================
+Date      Topic                                      Reading                                                Other
+========  =========================================  =================================================      ====================================
+Mar 31    Introduction to memory                     Ch. 1 (The Psychology of Learning & Memory)            \
+
+Apr 2     Experimental methods                       Ch. 2 (The Neuroscience of Learning & Memory)
 
           - From behavior to brain imaging           \
 
-Apr 7     Working memory I                           Ch. 9
+Apr 7     Working memory I                           Ch. 9 (Working Memory & Cognitive Control)
 
 Apr 9     Working memory II                          \
 
-Apr 14    Cognitive control and memory I             \                                   Optional: Memory at the Movies I
+Apr 14    Cognitive control and memory I             \                                                      Optional: Memory at the Movies I
 
-                                                                                         - *Roshomon* @ 7PM, Jordan Hall 419
+                                                                                                            - *Roshomon* @ 7PM, Jordan Hall 419
 
 
 Apr 16    Cognitive control and memory II            \
 
-Apr 21    Midterm I                                  \                                   Location: Braun Auditorium,
-                                                                                         Mudd Chemistry Building
+Apr 21    Midterm I                                  \                                                     Location: Braun Auditorium,
+                                                                                                           Mudd Chemistry Building
 
-Apr 23    Episodic memory: Encoding I                Ch. 7
+Apr 23    Episodic memory: Encoding I                Ch. 7 (Episodic & Semantic Memory)
 
           - How do we learn?
 
-Apr 28    Episodic memory: Encoding II                Squire (2009)
+Apr 28    Episodic memory: Encoding II               Squire (2009)
 
           - Neural mechanisms
 
-Apr 30    Episodic memory: Retrieval I                                                   Optional: Memory at the Movies II
+Apr 30    Episodic memory: Retrieval I                                                                      Optional: Memory at the Movies II
 
-          - How do we remember?                                                          - *Eternal Sunshine* @ 7PM, Jordan Hall 419
+          - How do we remember?                                                                             - *Eternal Sunshine* @ 7PM, Jordan Hall 419
 	        - *Lecturer: Stephanie Gagnon*
+
 
 May 5     Episodic memory: Retrieval II
 
@@ -216,28 +218,29 @@ May 7     Semantic memory and statistical learning   Review relevant sections of
 
 	  - *Lecturer: Karen LaRocque*
 
-May 12    Midterm II                                                                     Location: Braun Auditorium,
-                                                                                         Mudd Chemistry Building
+May 12    Midterm II                                                                                        Location: Braun Auditorium,
+                                                                                                            Mudd Chemistry Building
 
-May 14    Multiple memory systems                    Ch. 8                               Memory at the Movies III
+May 14    Multiple memory systems                    Ch. 8 (Skill Memory)                                   Memory at the Movies III
 
-          - Declarative vs. nondeclarative memory                                        - *Memento* @ 7 PM, 200-203
+          - Declarative vs. nondeclarative memory                                                           - *Memento* @ 7 PM, 200-203
 
-May 19    Nonconscious forms of memory               Ch. 4 and 5                         Memory at the Movies III
+May 19    Nonconscious forms of memory               Ch. 4 and 5 (Classical & Operant Conditioning)         Memory at the Movies III
 
-          - Conditioning                                                                 - *Memento* @ 7 PM, Hewlett 201
+          - Conditioning                                                                                    - *Memento* @ 7 PM, Hewlett 201
 
-May 21    Emotion and memory                         Ch. 10
+May 21    Emotion and memory                         Ch. 10 (Emotional Influences on L&M)
 
           - *Lecturer: Jim Sorenson*
 
 May 26    Why do we forget?                          Kuhl & Wagner (2009)
 
-May 28    False memories                             Schacter (1999)                     Paper Due
+May 28    False memories                             Schacter (1999)                                        Paper Due
 
-Jun 2     Aging and memory                           Ch. 12
+Jun 2     Aging and memory                           Ch. 12 (Development & Aging)
 
-Jun 4     Review session                                                                 Location: 420-041 (usual classroom)
 
-Jun 5     Final Exam, 12:15-3:15                                                         Location TBD
-========  =========================================  ==================================  =======================================
+Jun 4     Review session                                                                                    Location 420-041 (usual classroom)
+
+Jun 5     Final Exam, 12:15-3:15                                                                            Location TBD
+========  =========================================  =================================================      ====================================
