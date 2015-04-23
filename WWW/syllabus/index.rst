@@ -171,9 +171,9 @@ Schedule
 --------------------------------------------
 
 .. cssclass:: table-hover
-========  =========================================  ==================================  ====================================
+========  =========================================  ==================================  =======================================
 Date      Topic                                      Reading                             Other
-========  =========================================  ==================================  ====================================
+========  =========================================  ==================================  =======================================
 Mar 31    Introduction to memory                     Ch. 1                               \
 
 Apr 2     Experimental methods                       Ch. 2
@@ -186,12 +186,13 @@ Apr 9     Working memory II                          \
 
 Apr 14    Cognitive control and memory I             \                                   Optional: Memory at the Movies I
 
-										         - *Roshomon* @ 7PM, Jordan Hall 419
+                                                                                         - *Roshomon* @ 7PM, Jordan Hall 419
 
 
 Apr 16    Cognitive control and memory II            \
 
-Apr 21    Midterm I                                  \
+Apr 21    Midterm I                                  \                                   Location: Braun Auditorium,
+                                                                                         Mudd Chemistry Building
 
 Apr 23    Episodic memory: Encoding I                Ch. 7
 
@@ -203,8 +204,8 @@ Apr 28    Episodic memory: Encoding II                Squire (2009)
 
 Apr 30    Episodic memory: Retrieval I                                                   Optional: Memory at the Movies II
 
-  	  - How do we remember?                                                          - *Eternal Sunshine* @ 7PM, Hewlett 201
-	  - *Lecturer: Stephanie Gagnon*
+          - How do we remember?                                                          - *Eternal Sunshine* @ 7PM, Jordan Hall 419
+	        - *Lecturer: Stephanie Gagnon*
 
 May 5     Episodic memory: Retrieval II
 
@@ -215,7 +216,8 @@ May 7     Semantic memory and statistical learning   Review relevant sections of
 
 	  - *Lecturer: Karen LaRocque*
 
-May 12    Midterm II
+May 12    Midterm II                                                                     Location: Braun Auditorium,
+                                                                                         Mudd Chemistry Building
 
 May 14    Multiple memory systems                    Ch. 8                               Memory at the Movies III
 
@@ -235,7 +237,7 @@ May 28    False memories                             Schacter (1999)            
 
 Jun 2     Aging and memory                           Ch. 12
 
-Jun 4     Review session                                                                 Location 420-041 (usual classroom)
+Jun 4     Review session                                                                 Location: 420-041 (usual classroom)
 
 Jun 5     Final Exam, 12:15-3:15                                                         Location TBD
-========  =========================================  ==================================  ====================================
+========  =========================================  ==================================  =======================================
