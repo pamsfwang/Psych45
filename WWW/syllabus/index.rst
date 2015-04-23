@@ -172,9 +172,9 @@ Schedule
 
 .. cssclass:: table-hover
 
-========  =========================================  =================================================      ====================================
+========  =========================================  ====================================================   ====================================
 Date      Topic                                      Reading                                                Other
-========  =========================================  =================================================      ====================================
+========  =========================================  ====================================================   ====================================
 Mar 31    Introduction to memory                     Ch. 1 (The Psychology of Learning & Memory)            \
 
 Apr 2     Experimental methods                       Ch. 2 (The Neuroscience of Learning & Memory)
@@ -189,11 +189,10 @@ Apr 14    Cognitive control and memory I             \                          
 
                                                                                                             - *Roshomon* @ 7PM, Jordan Hall 419
 
-
 Apr 16    Cognitive control and memory II            \
 
-Apr 21    Midterm I                                  \                                                     Location: Braun Auditorium,
-                                                                                                           Mudd Chemistry Building
+Apr 21    Midterm I                                  \                                                      Location: Braun Auditorium,
+                                                                                                            Mudd Chemistry Building
 
 Apr 23    Episodic memory: Encoding I                Ch. 7 (Episodic & Semantic Memory)
 
@@ -208,15 +207,13 @@ Apr 30    Episodic memory: Retrieval I                                          
           - How do we remember?                                                                             - *Eternal Sunshine* @ 7PM, Jordan Hall 419
 	        - *Lecturer: Stephanie Gagnon*
 
-
 May 5     Episodic memory: Retrieval II
 
           - What do we remember?
 
-
 May 7     Semantic memory and statistical learning   Review relevant sections of Ch. 7
 
-	  - *Lecturer: Karen LaRocque*
+          - *Lecturer: Karen LaRocque*
 
 May 12    Midterm II                                                                                        Location: Braun Auditorium,
                                                                                                             Mudd Chemistry Building
@@ -239,8 +236,7 @@ May 28    False memories                             Schacter (1999)            
 
 Jun 2     Aging and memory                           Ch. 12 (Development & Aging)
 
-
 Jun 4     Review session                                                                                    Location 420-041 (usual classroom)
 
 Jun 5     Final Exam, 12:15-3:15                                                                            Location TBD
-========  =========================================  =================================================      ====================================
+========  =========================================  ====================================================   ====================================
