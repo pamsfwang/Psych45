@@ -41,7 +41,7 @@ Memory Span
 Several memory span tasks can be found by nagivating to `this page <http://cognitivefun.net>`_ and then clicking on the "Item Span" tab.
 
 
-In class we'll focus on *Forward Digit Span* (you can try the visual or auditory version). We'll also briefly talk about the *Corsi Block Task*. 
+In class we'll focus on *Forward Digit Span* (you can try the visual or auditory version). We'll also briefly talk about the *Corsi Block Task*.
 
 
 A few things to note:
@@ -78,3 +78,16 @@ Stroop Task
 ~~~~~~~~~~~~
 
 A very quick demo of the Stroop task can be found `here <http://www.math.unt.edu/~tam/selftests/stroopeffects.html>`_.
+
+
+Memory Retrieval
+--------------------------------------------
+
+Signal Detection Theory
+~~~~~~~~~~~~
+
+A web app to get a better intuition about signal detection theory in the context of **recognition memory**.
+Check out how **d-prime** changes as you move the "OlD" mean further from the "NEW" mean! Then, look at how your
+**hit** and **false alarm** rates change when you move the **criterion** around.
+
+The app can be found `here <http://spark.rstudio.com/supsych/sdt_concept/>`_
