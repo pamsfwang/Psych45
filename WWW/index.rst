@@ -24,7 +24,7 @@ In addition to this page, please visit:
 
 - `Piazza <https://piazza.com/stanford/spring2016/psych45/home>`_ for asking and answering questions
 
-- Canvas <URL>`_ for lecture slides and other materials
+- `Canvas <https://canvas.stanford.edu/courses/23997>`_ for lecture slides and other materials
 
 Contents
 --------

@@ -30,7 +30,8 @@ Course Requirements
 --------------------------------------------
 
 The course grade will be based on two midterms (each 25%), a cumulative final (25%), a written assignment
-(15%), participation prompts (5%), and memory in action assignments (5%). You may receive up to 2 bonus points for peer assistance on Piazza. **For the written assignment, students are asked to submit a 4-page (double-spaced) paper that
+(15%), participation prompts (5%), and memory in action assignments (5%). You may receive up to 2 bonus points for peer assistance on Piazza.
+**For the written assignment, students are asked to submit a 4-page (double-spaced) paper that
 summarizes and critiques the accuracy of how memory is depicted in the movie Memento.** Guidelines for
 the written assignment can be found below.
 
@@ -98,9 +99,9 @@ Participation Prompts
 
 During lecture, we will pose questions that are designed to prompt reflection on the nature or science of memory.
 We will ask you to generate a brief written response that will be handed in at the end of the class.
-Over the term, there will be approximately 7 such prompts.
+Over the term, there will be 7 such prompts, and you will be asked to turn in 5.
 
-.. note:: Late policy:
+.. note:: Late policy: There will be no opportunities for make-ups.
 
 ----------------
 
@@ -109,11 +110,11 @@ Memory in Action Demos
 
 We have assembled a series of memory demos that can be performed on-line.
 Each demo will serve to illustrate a fundamental memory phenomenon and may also generate data from
-the class that we can discuss during lecture.
-For each demo, we will also pose a few questions, and we ask that you provide brief responses.
+the class that we can discuss during lecture. For each demo, we will also pose a question or two, to which
+we ask that you provide brief responses (uploading your responses via Canvas).
 MIA Demos should be completed and uploaded to Canvas 24hrs prior to the date/lecture specified on the syllabus.
 
-.. note:: Late policy:
+.. note:: Late policy: Points will be taken off for late assignments unless there is a medical emergency, in fairness to those who submit in a timely manner. Serious health or other issues that interfere with assignment dates can be discussed with the Alternate Exams TA (Kyle MacDonald).
 
 ----------------
 
@@ -164,13 +165,13 @@ Mar 31    Experimental methods                       Ch. 2 (The Neuroscience of 
 
 Apr 4     Working memory I                           Ch. 9 (Working Memory & Cognitive Control)
 
-Apr 7     Working memory II                          \
+Apr 7     Working memory II                          \                                                      MiA #1: N-back
 
 Apr 12    Cognitive control and memory I             \                                                      Optional: Memory at the Movies I
 
                                                                                                             - *Eternal Sunshine* @ 7PM
 
-Apr 14    Cognitive control and memory II            \
+Apr 14    Cognitive control and memory II            \                                                      MiA #2: Stroop
 
 Apr 19    Midterm I                                  \                                                      Location: TBD
 
@@ -190,7 +191,7 @@ May 3     Episodic memory: Retrieval II                                         
                                                                                                             - *Inside Out* @ 7PM
           - What do we remember?
 
-May 5     Semantic memory and statistical learning   Review relevant sections of Ch. 7
+May 5     Semantic memory and statistical learning   Review relevant sections of Ch. 7                      MiA #3: Semantic memory
 
           - *Lecturer: Ian Ballard*
 
@@ -204,12 +205,13 @@ May 17    Nonconscious forms of memory               Ch. 4 and 5 (Classical & Op
 
           - Conditioning                                                                                    - *Memento* @ 7 PM, TBD
 
-May 19    Emotion and memory                         Ch. 10 (Emotional Influences on L&M)
+May 19    Emotion and memory                         Ch. 10 (Emotional Influences on L&M)                   MiA #4: Emotion & memory
 
 May 24    Why do we forget?                          Kuhl & Wagner (2009)
           - *Lecturer: Kevin Mickey*
 
 May 26    False memories                             Schacter (1999)                                        Paper Due
+            \                                        \                                                      MiA #5: Memory errors
 
 May 31    Aging and memory                           Ch. 12 (Development & Aging)
 
@@ -217,5 +219,5 @@ May 31    Aging and memory                           Ch. 12 (Development & Aging
 
 Jun 2     Review session                                                                                    Location 420-041 (usual classroom)
 
-Jun X     Final Exam, XX                                                                                    Location TBD
+Jun 6     Final Exam, 8:30-11:30am                                                                          Location TBD
 ========  =========================================  ====================================================   ====================================
