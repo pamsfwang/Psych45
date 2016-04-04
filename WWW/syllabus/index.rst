@@ -163,7 +163,7 @@ Mar 31    Experimental methods                       Ch. 2 (The Neuroscience of 
 
           - From behavior to brain imaging           \
 
-Apr 4     Working memory I                           Ch. 9 (Working Memory & Cognitive Control)
+Apr 5     Working memory I                           Ch. 9 (Working Memory & Cognitive Control)
 
 Apr 7     Working memory II                          \                                                      MiA #1: N-back
 
