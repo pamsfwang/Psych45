@@ -17,7 +17,7 @@ To update the website, you'll need to have the following on your computer:
 Once you've made changes to the files in the WWW folder (e.g., adding new .Rmds or .htmls into the section folder; updating an index.rst file), you'll need to generate the new html files. To do this, type the following into your terminal:
 
 ```
-cd ~/yourfilepath/Psych253/WWW
+cd ~/yourfilepath/Psych45/WWW
 make clean html
 ./upload_website.sh <sunetid>
 ```
