@@ -6,7 +6,7 @@ Please follow the instructions to complete the demo, and enter your (brief!) res
 As a reminder, responses must be uploaded to Canvas by no later than 24hrs prior to the date/lecture specified on the syllabus.
 
 
-4/7: MiA #1: N-back
+4/13: MiA #1: N-back
 ------------------------------------------------------
 A classic n-back task can be found by navigating to `this page <http://cognitivefun.net/>`_ and then clicking on the “Memory” tab
 and selecting "Working memory test (n-back)". Log in (in the left sidebar) using the **username**: psych45 and
@@ -14,7 +14,7 @@ and selecting "Working memory test (n-back)". Log in (in the left sidebar) using
 
 Start with a 2-back, then increase to the 3-back. Feel free to try the 4-back, etc.,
 if you want! After you complete the demos, please answer the following questions and
-submit your answers to these questions **by no later than 9 AM on Weds (4/6)**.
+submit your answers to these questions **by no later than 9 AM on Weds (4/13)**.
 
 #. What strategies did you use to try to remember the pictures? How well did they work?
 #. How did the 2-back task compare to the 3-back (or 4-back, etc. if you tried it)?
@@ -30,19 +30,19 @@ View class data:
 ----------------
 
 
-4/14: MiA #2: Stroop
+4/20: MiA #2: Stroop
 ------------------------------------------------------
 A classic Stroop task can be found by navigating to `this page <http://cognitivefun.net/>`_ and then clicking on the “Executive” tab
 and selecting Color Reading Interference (Stroop). Log in (in the left sidebar) using the *username*:
 psych45 and *password*: stanford.
 Complete the demo, and then  please answer the following questions and submit your answers to
-these questions **by 9 AM on Weds 4/13**.
+these questions **by 9 AM on Weds 4/19**.
 
 #. Were you as quick and accurate on all of the trials? Or were some trials easier than others? Why do you think this might be the case?
 #. Did the task become easier over time?
 #. Is there an example of the Stroop effect you've observed in the real world?
 
-Please upload your response to Canvas **by no later than 9 AM on Weds (4/13)**.
+Please upload your response to Canvas **by no later than 9 AM on Weds (4/19)**.
 
 
 View class data:
@@ -55,13 +55,13 @@ View class data:
 ----------------
 
 
-5/5: MiA #3: Semantic memory
+5/11: MiA #3: Semantic memory
 ------------------------------------------------------
 #. Go to this `Google Form <http://goo.gl/forms/xwn7uehmpA>`_, and complete the category ranking task.
 #. Briefly describe the strategy that you used (or that you think you used) to make these decisions.
 #. Choose one of the categories (i.e., fruit, sport, bird, vehicle, crime, vegetable), and list what you consider the most important defining features of that category.
 
-Please complete the task and then submit your responses to the following prompts to Canvas **by no later than 9 AM on Weds (5/4)**.
+Please complete the task and then submit your responses to the following prompts to Canvas **by no later than 9 AM on Weds (5/10)**.
 
 
 View class data:
@@ -75,9 +75,9 @@ View class data:
 ----------------
 
 
-5/19: MiA #4: Emotion & memory
+5/25: MiA #4: Emotion & memory
 ------------------------------------------------------
-Please complete the  demo and submit your answers to the questions below **by no later than 9 AM on Weds (5/18)**.
+Please complete the  demo and submit your answers to the questions below **by no later than 9 AM on Weds (5/24)**.
 
 
 
@@ -106,7 +106,7 @@ If you choose not to do the demo with AMT, have difficulty getting AMT to work, 
 Questions:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When you’ve completed the demo, answer the following questions and make sure you submit your answers to these questions to Canvas **by no later than 9 AM on Weds (5/18)**.
+When you’ve completed the demo, answer the following questions and make sure you submit your answers to these questions to Canvas **by no later than 9 AM on Weds (5/24)**.
 
 #. What type of encoding instructions were used here? What type of memory test was used here? Based on what we’ve learned about this type of memory test, what serial positions are you more likely to remember when performing this type of task?
 #. How was your memory performance for the different types (positive, negative, neutral) of words? Why do you think this was the case? Did you use different encoding and/or retrieval strategies for the different types of words?
@@ -124,7 +124,7 @@ View class data:
 ----------------
 
 
-5/26: MiA #5: Memory errors
+6/1: MiA #5: Memory errors
 ------------------------------------------------------
 
 For two days keep a memory errors journal. Try to pay attention to situations where your memory fails you that you might not usually notice, and ask yourself Why did I behave this way? Were there certain types of circumstances that produced these errors? What could I have done to prevent this from happening?
@@ -134,6 +134,6 @@ Try to think of at least one instance of each of the following:
 #. Forgetting
 #. False memory
 
-Please submit whatever examples you feel comfortable sharing from your journal **by no later than 9 AM on Weds (5/25)**.
+Please submit whatever examples you feel comfortable sharing from your journal **by no later than 9 AM on Weds (5/31)**.
 
 ----------------

@@ -183,7 +183,7 @@ May 18     Multiple memory systems                    Ch. 8 (Skill Memory)      
 
 May 23     Nonconscious forms of memory               Ch. 4 and 5 (Classical & Operant Conditioning)         Memory at the Movies
 
-           - Conditioning                                                                                    - *Memento* @ 7 PM, TBD
+           - Conditioning   \                                                                                - *Memento* @ 7 PM, TBD
 
 	       - *Lecturer: Zeynep Enkavi*
 
