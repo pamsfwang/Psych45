@@ -20,7 +20,7 @@ Shao-Fang (Pam) Wang    shaofang                   Mon 10:00-11:00am            
 ======================  =========================  ===================================  ====================
 
 
-**Alternate Exams TA**: Shao-Fang Wang
+**Alternate Exams TA**: Pam Wang
 
 ----------------
 
@@ -51,11 +51,9 @@ Articles:
 
 - (1) Squire L.R. (2009). The legacy of patient H.M. for neuroscience. Neuron, 61: 6-9. [`pubmed citation <http://www.ncbi.nlm.nih.gov/pubmed/19146808>`_]
 
-- (2) Kuhl BA, Wagner AD. (2009). Forgetting and retrieval. In GG Berntson, JT Cacioppo (Eds). Handbook of Neurosciences for the Behavioral Sciences. John Wiley and Sons. [`pdf <http://memorylab.stanford.edu/Publications/papers/KUHL_HNBS09.pdf>`_]
+- (2) Schacter DL. (1999). The seven sins of memory: Insights from psychology and cognitive neuroscience. Am Psychol. 54(3):182-203. [`pubmed citation <http://www.ncbi.nlm.nih.gov/pubmed/10199218>`_]
 
-- (3) Schacter DL. (1999). The seven sins of memory: Insights from psychology and cognitive neuroscience. Am Psychol. 54(3):182-203. [`pubmed citation <http://www.ncbi.nlm.nih.gov/pubmed/10199218>`_]
-
-*Note: Articles 1 and 3 can be downloaded as PDF’s at* `PubMed <http://www.ncbi.nlm.nih.gov/entrez/query.fcgi>`_
+*Note: Articles can be downloaded as PDF’s at* `PubMed <http://www.ncbi.nlm.nih.gov/entrez/query.fcgi>`_
 
 - *After locating the PubMed citation for a given article, click on the link to view the abstract.*
 - *On the abstract page, there will be a link to the journal (often in the upper right corner) for direct PDF download.*
@@ -66,7 +64,7 @@ Articles:
 Written Assignment: Memory in *Memento*
 --------------------------------------------
 
-**Due June 01, 2017**
+**Due June 01, 2017, immediately after class**
 
 For the written assignment, students are asked to submit a 4-page (double-spaced) paper that
 summarizes and critiques the accuracy of how memory is depicted in the movie Memento. The objective of
@@ -92,7 +90,7 @@ three copies of the DVD that can be checked out, and the movie may also be avail
 	  there is a medical emergency, in fairness to those who
 	  submit in a timely manner. Serious health or other issues
 	  that interfere with exam and assignment dates can be
-	  discussed with the Alternate Exams TA (Shao-Fang Wang).
+	  discussed with the Alternate Exams TA (Pam Wang).
 
 ----------------
 
@@ -116,7 +114,7 @@ the class that we can discuss during lecture. For each demo, we will also pose a
 we ask that you provide brief responses (uploading your responses via Canvas).
 MIA Demos should be completed and uploaded to Canvas 24hrs prior to the date/lecture specified on the syllabus.
 
-.. note:: Late policy: Points will be taken off for late assignments unless there is a medical emergency, in fairness to those who submit in a timely manner. Serious health or other issues that interfere with assignment dates can be discussed with the Alternate Exams TA (Shao-Fang (Pam) Wang).
+.. note:: Late policy: Points will be taken off for late assignments unless there is a medical emergency, in fairness to those who submit in a timely manner. Serious health or other issues that interfere with assignment dates can be discussed with the Alternate Exams TA (Pam Wang).
 
 ----------------
 
@@ -173,7 +171,7 @@ May 9      Episodic memory: Retrieval II
 
 May 11     Semantic memory and statistical learning   Ch. 6,pp. 237-243 & Review Ch. 7                       MiA #3: Semantic memory
 
-           *Lecturer: Shao-Fang Wang*
+           *Lecturer: Pam Wang*
 
 May 16     Midterm II                                                                                        Location: TBD
 
@@ -191,7 +189,7 @@ May 23     Nonconscious forms of memory               Ch. 4 and 5 (Classical & O
 
 May 25     Emotion and memory                         Ch. 10 (Emotional Influences on L&M)                   MiA #4: Emotion & memory
 
-May 30     Why do we forget?                          Kuhl & Wagner (2009)
+May 30     Why do we forget?
 
 Jun 1      False memories                             Schacter (1999)                                        MiA #5: False memory & Paper Due
 
@@ -203,5 +201,5 @@ Jun 6      Aging and memory                           Ch. 12 (Development & Agin
 
 Jun 8      Review session                                                                                    Location 420-041 (usual classroom)
 
-Jun  #     Final Exam, 8:30-11:30am                                                                          Location TBD
+Jun 12     Final Exam, 8:30-11:30am                                                                          Location TBD
 =========  =========================================  ====================================================   ====================================
