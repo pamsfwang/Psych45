@@ -1,8 +1,5 @@
-2015 Website
+2016 Website
 ======================================================
-
-Introduction to Learning & Memory
-------------------------------------
 
 Other than that which is genetically coded, everything we know is derived from and reflects memory for our past.
 This course provides an introductory survey of the literature on learning and memory, including consideration of
@@ -15,17 +12,19 @@ Instructor:
 
 Anthony Wagner
 
-2015 Teaching Assistants:
+2016 Teaching Assistants:
 ~~~~~~~~~~~~~~~~~~~~
 
-Karen LaRocque, Steph Gagnon, Jim Sorenson, and Ellie Chestnut
+Steph Gagnon, Ian Ballard, Kevin Mickey, and Kyle MacDonald
 
 Course Pages:
 ~~~~~~~~~~~~~~~~~~~~
 
 In addition to this page, please visit:
 
-- `Piazza <https://piazza.com/stanford/spring2015/psych45/home>`_ for asking and answering questions
+- `Piazza <https://piazza.com/stanford/spring2016/psych45/home>`_ for asking and answering questions
+
+- `Canvas <https://canvas.stanford.edu/courses/23997>`_ for lecture slides and other materials
 
 Contents
 --------
@@ -33,6 +32,6 @@ Contents
 .. toctree::
    :maxdepth: 1
 
-   syllabus_2015/index.rst
-   demos_2015/index.rst
-   resources_2015/index.rst
+   syllabus_2016/index.rst
+   demos_2016/index.rst
+   resources_2016/index.rst
