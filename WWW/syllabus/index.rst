@@ -183,9 +183,10 @@ May 18     Multiple memory systems                    Ch. 8 (Skill Memory)      
 
 May 23     Nonconscious forms of memory               Ch. 4 and 5 (Classical & Operant Conditioning)         Memory at the Movies
 
+           *Lecturer: Zeynep Enkavi*
            - Conditioning                                                                                    - *Memento* @ 7 PM, TBD
 
-	       *Lecturer: Zeynep Enkavi*
+
 
 May 25     Emotion and memory                         Ch. 10 (Emotional Influences on L&M)                   MiA #4: Emotion & memory
 
