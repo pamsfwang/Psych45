@@ -12,19 +12,19 @@ Instructor:
 
 Anthony Wagner
 
-2016 Teaching Assistants:
+2017 Teaching Assistants:
 ~~~~~~~~~~~~~~~~~~~~
 
-Steph Gagnon, Ian Ballard, Kevin Mickey, and Kyle MacDonald
+Zeynep Enkavi, Anna Khazenzon, Shao-Fang (Pam) Wang
 
 Course Pages:
 ~~~~~~~~~~~~~~~~~~~~
 
 In addition to this page, please visit:
 
-- `Piazza <https://piazza.com/stanford/spring2016/psych45/home>`_ for asking and answering questions
+- `Piazza <https://piazza.com/stanford/spring2017/psych45/home>`_ for asking and answering questions
 
-- `Canvas <https://canvas.stanford.edu/courses/23997>`_ for lecture slides and other materials
+- `Canvas <https://canvas.stanford.edu/courses/63017>`_ for lecture slides and other materials
 
 Contents
 --------
