@@ -173,7 +173,9 @@ Apr 12    Cognitive control and memory I             \                          
 
 Apr 14    Cognitive control and memory II            \                                                      MiA #2: Stroop
 
-Apr 19    Midterm I                                  \                                                      Location: TBD
+Apr 17    Review session (Q&A)                       \                                                      Location: 420-041 (classroom), 5-6 PM
+
+Apr 19    Midterm I                                  \                                                      Location: Braun Auditorium
 
 Apr 21    Episodic memory: Encoding I                Ch. 7 (Episodic & Semantic Memory)
 
@@ -195,7 +197,7 @@ May 5     Semantic memory and statistical learning   Review relevant sections of
 
           - *Lecturer: Ian Ballard*
 
-May 10    Midterm II                                                                                        Location: TBD
+May 10    Midterm II                                                                                        Location: Braun Auditorium
 
 May 12    Multiple memory systems                    Ch. 8 (Skill Memory)                                   Memory at the Movies III
 
