@@ -201,25 +201,28 @@ May 10    Midterm II                                                            
 
 May 12    Multiple memory systems                    Ch. 8 (Skill Memory)                                   Memory at the Movies III
 
-          - Declarative vs. nondeclarative memory                                                           - *Memento* @ 7 PM, TBD
+          - Declarative vs. nondeclarative memory                                                           - *Memento* @ 7 PM, 420-419
 
 May 17    Nonconscious forms of memory               Ch. 4 and 5 (Classical & Operant Conditioning)         Memory at the Movies III
 
-          - Conditioning                                                                                    - *Memento* @ 7 PM, TBD
+          - Conditioning                                                                                    - *Memento* @ 7 PM, 420-419
 
 May 19    Emotion and memory                         Ch. 10 (Emotional Influences on L&M)                   MiA #4: Emotion & memory
 
 May 24    Why do we forget?                          Kuhl & Wagner (2009)
+
           - *Lecturer: Kevin Mickey*
 
-May 26    False memories                             Schacter (1999)                                        Paper Due
+May 26    False memories                             Schacter (1999)                                        Paper Due;
             \                                        \                                                      MiA #5: Memory errors
 
 May 31    Aging and memory                           Ch. 12 (Development & Aging)
 
           - *Lecturer: Stephanie Gagnon*
 
-Jun 2     Review session                                                                                    Location 420-041 (usual classroom)
+Jun 2     Review session (9-10:20 am)                                                                       Location 420-040 (adjacent lecture hall to classroom)
+
+Jun 2     Alternate Final exam (12-3pm)                                                                     Location 420-040 
 
 Jun 6     Final Exam, 8:30-11:30am                                                                          Location TBD
 ========  =========================================  ====================================================   ====================================

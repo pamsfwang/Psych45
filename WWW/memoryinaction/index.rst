@@ -112,11 +112,28 @@ When you’ve completed the demo, answer the following questions and make sure y
 #. How was your memory performance for the different types (positive, negative, neutral) of words? Why do you think this was the case? Did you use different encoding and/or retrieval strategies for the different types of words?
 #. (Optional). Feel free to share any additional comments.
 
+
+View class data:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`html <http://nbviewer.jupyter.org/url/web.stanford.edu/class/psych45/demos/emotion_memory_stats.ipynb?flush_cache=true>`_
+
+`Jupyter notebook <http://web.stanford.edu/class/psych45/demos/emotion_memory_stats.ipynb>`_
+
+
 ----------------
 
 
 5/26: MiA #5: Memory errors
 ------------------------------------------------------
-Please upload your assignment by no later than 9 AM on Weds (5/25).
+
+For two days keep a memory errors journal. Try to pay attention to situations where your memory fails you that you might not usually notice, and ask yourself Why did I behave this way? Were there certain types of circumstances that produced these errors? What could I have done to prevent this from happening?
+
+Try to think of at least one instance of each of the following:
+
+#. Forgetting
+#. False memory
+
+Please submit whatever examples you feel comfortable sharing from your journal **by no later than 9 AM on Weds (5/25)**.
 
 ----------------
