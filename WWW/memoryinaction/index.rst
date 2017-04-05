@@ -8,11 +8,11 @@ As a reminder, responses must be uploaded to Canvas by no later than 24hrs prior
 
 4/13: MiA #1: N-back
 ------------------------------------------------------
-A classic n-back task can be found by navigating to `this page <http://cognitivefun.net/>`_ and then clicking on the “Memory” tab
+.. A classic n-back task can be found by navigating to `this page <http://cognitivefun.net/>`_ and then clicking on the “Memory” tab
 and selecting "Working memory test (n-back)". Log in (in the left sidebar) using the **username**: psych45 and
 **password**: stanford.
 
-Start with a 2-back, then increase to the 3-back. Feel free to try the 4-back, etc.,
+.. Start with a 2-back, then increase to the 3-back. Feel free to try the 4-back, etc.,
 if you want! After you complete the demos, please answer the following questions and
 submit your answers to these questions **by no later than 9 AM on Weds (4/13)**.
 
