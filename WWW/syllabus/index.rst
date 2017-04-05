@@ -173,7 +173,7 @@ May 9      Episodic memory: Retrieval II
 
 May 11     Semantic memory and statistical learning   Ch. 6,pp. 237-243 & Review Ch. 7                       MiA #3: Semantic memory
 
-           - *Lecturer: Shao-Fang Wang*
+           *Lecturer: Shao-Fang Wang*
 
 May 16     Midterm II                                                                                        Location: TBD
 
@@ -193,7 +193,7 @@ May 30     Why do we forget?                          Kuhl & Wagner (2009)
 
 Jun 1      False memories                             Schacter (1999)                                        MiA #5: False memory & Paper Due
 
-           - *Lecturer: Anna Khazenzon*
+           *Lecturer: Anna Khazenzon*
 
 
 Jun 6      Aging and memory                           Ch. 12 (Development & Aging)
