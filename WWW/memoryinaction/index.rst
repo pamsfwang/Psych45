@@ -23,7 +23,7 @@ submit your answers to these questions on Canvas **by no later than 9 AM on Weds
 View class data:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`html <https://nbviewer.jupyter.org/url/web.stanford.edu/class/psych45/demos/n-back_stats.ipynb?flush_cache=true>`_
+`html <https://nbviewer.jupyter.org/url/web.stanford.edu/class/psych45/demos/n-back_stats.ipynb>`_
 
 `Jupyter notebook <http://web.stanford.edu/class/psych45/demos/n-back_stats.ipynb>`_
 
