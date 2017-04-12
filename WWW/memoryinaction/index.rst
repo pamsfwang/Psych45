@@ -20,6 +20,13 @@ submit your answers to these questions on Canvas **by no later than 9 AM on Weds
 #. How did the 2-back task compare to the 3-back (or 4-back, etc. if you tried it)?
 #. How could you change the task to make it easier or harder, other than changing the number of targets (n)?
 
+View class data:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`html <https://nbviewer.jupyter.org/url/web.stanford.edu/class/psych45/demos/n-back_stats.ipynb?flush_cache=true>`_
+
+`Jupyter notebook <http://web.stanford.edu/class/psych45/demos/n-back_stats.ipynb>`_
+
 ----------------
 
 
