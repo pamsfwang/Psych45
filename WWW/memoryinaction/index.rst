@@ -40,8 +40,7 @@ these questions **by 9 AM on Weds 4/19**.
 
 #. Were you as quick and accurate on all of the trials? Or were some trials easier than others? Why do you think this might be the case?
 #. Did the task become easier over time?
-#. Do you think the effect would be larger or smaller if you were reading font names
-in different fonts? What about numbers in different font sizes? Explain.
+#. Do you think the effect would be larger or smaller if, instead of identifying the color that color words were printed in, you were identifying the font that different font names were printed in? What about numbers in different font sizes? Explain your thinking.
 #. Is there an example of the Stroop effect you've observed in the real world?
 
 Please upload your response to Canvas **by no later than 9 AM on Weds (4/19)**.
