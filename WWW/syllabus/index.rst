@@ -151,7 +151,7 @@ Apr 18     Working memory III                         \
 
 Apr 20     Cognitive control and memory               \                                                      MiA #2: Stroop
 
-Apr 25     Midterm I                                  \                                                      Location: TBD
+Apr 25     Midterm I                                  \                                                      Location: `STLC 111 <https://goo.gl/D3wPCP>`_                                                                                                   
 
 Apr 27     Episodic memory: Encoding I                Ch. 7 (Episodic & Semantic Memory)
 
