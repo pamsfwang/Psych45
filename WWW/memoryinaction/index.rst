@@ -43,8 +43,10 @@ these questions **by 9 AM on Weds 4/19**.
 #. Do you think the effect would be larger or smaller if, instead of identifying the color that color words were printed in, you were identifying the font that different font names were printed in? What about numbers in different font sizes? Explain your thinking.
 #. Is there an example of the Stroop effect you've observed in the real world?
 
-Please upload your response to Canvas **by no later than 9 AM on Weds (4/19)**.
+View class data:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+`Jupyter notebook <https://github.com/sgagnon/Psych45/blob/master/WWW/demo_files/stroop_stats.ipynb>`_
 
 ----------------
 
