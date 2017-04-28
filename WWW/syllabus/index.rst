@@ -173,7 +173,7 @@ May 11     Semantic memory and statistical learning   Ch. 6,pp. 237-243 & Review
 
            *Lecturer: Pam Wang*
 
-May 16     Midterm II                                                                                        Location: TBD
+May 16     Midterm II                                                                                        Location: `STLC 111 <https://goo.gl/D3wPCP>`_
 
 May 18     Multiple memory systems                    Ch. 8 (Skill Memory)                                   Memory at the Movies
 
