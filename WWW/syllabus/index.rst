@@ -201,5 +201,5 @@ Jun 6      Aging and memory                           Ch. 12 (Development & Agin
 
 Jun 8      Review session                                                                                    Location 420-041 (usual classroom)
 
-Jun 12     Final Exam, 8:30-11:30am                                                                          Location TBD
+Jun 12     Final Exam, 8:30-11:30am                                                                          Location 420-040 (NOT usual room)
 =========  =========================================  ====================================================   ====================================
