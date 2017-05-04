@@ -53,6 +53,11 @@ View class data:
 
 5/10: MiA #3: Semantic memory
 ------------------------------------------------------
+#. Go to this `Google Form <http://goo.gl/forms/xwn7uehmpA>`_, and complete the category ranking task.
+#. Briefly describe the strategy that you used (or that you think you used) to make these decisions.
+#. Choose one of the categories (i.e., fruit, sport, bird, vehicle, crime, vegetable), and list what you consider the most important defining features of that category.
+
+Please complete the task and then submit your responses to the following prompts to Canvas **by no later than 9 AM on Weds (5/10)**.
 
 ----------------
 
