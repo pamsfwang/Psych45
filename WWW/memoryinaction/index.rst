@@ -59,6 +59,12 @@ View class data:
 
 Please complete the task and then submit your responses to the following prompts to Canvas **by no later than 9 AM on Weds (5/10)**.
 
+View class data:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Jupyter notebook <https://github.com/sgagnon/Psych45/blob/master/WWW/demos/Semantic_demo_stats.ipynb>`_
+
+
 ----------------
 
 
