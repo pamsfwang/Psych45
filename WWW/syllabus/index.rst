@@ -177,13 +177,13 @@ May 16     Midterm II                                                           
 
 May 18     Multiple memory systems                    Ch. 8 (Skill Memory)                                   Memory at the Movies
 
-           - Declarative vs. nondeclarative memory                                                           - *Memento* @ 7 PM, TBD
+           - Declarative vs. nondeclarative memory                                                           - *Memento* @ 7 PM, 420-419
 
 May 23     Nonconscious forms of memory               Ch. 4 and 5 (Classical & Operant Conditioning)         Memory at the Movies
 
            *Lecturer: Zeynep Enkavi*
 
-           - Conditioning                                                                                    - *Memento* @ 7 PM, TBD
+           - Conditioning                                                                                    - *Memento* @ 7 PM, 420-419
 
 
 
