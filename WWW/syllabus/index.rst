@@ -193,11 +193,10 @@ May 30     Why do we forget?
 
 Jun 1      False memories                             Schacter (1999)                                        MiA #5: False memory & Paper Due
 
-           *Lecturer: Anna Khazenzon*
 
 
 Jun 6      Aging and memory                           Ch. 12 (Development & Aging)
-
+	   *Lecturer: Anna Khazenzon*
 
 Jun 8      Review session                                                                                    Location 420-041 (usual classroom)
 
