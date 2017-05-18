@@ -70,6 +70,11 @@ View class data:
 
 5/24: MiA #4: Emotion & memory
 ------------------------------------------------------
+Please complete the demo `here <http://web.stanford.edu/~zenkavi/emo/emo.html>`_ and submit your data on the `Google form <https://goo.gl/forms/0Kg60hSU3FwBgMIg1>`_ as well as answers to the questions below on Canvas **by no later than 9 AM on Weds (5/24)**.
+
+#. What type of encoding instructions were used? What type of memory test was used? Based on what we’ve learned about this type of memory test, what serial positions are you more likely to remember when performing this type of task?
+#. How was your memory performance for the different types (positive, negative, neutral) of words? Why do you think this was the case? Did you use different encoding and/or retrieval strategies for the different types of words?
+#. (Optional). Feel free to share any additional comments.
 
 ----------------
 
