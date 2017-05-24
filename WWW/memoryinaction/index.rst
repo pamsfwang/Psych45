@@ -76,6 +76,11 @@ Please complete the demo `here <http://web.stanford.edu/~zenkavi/emo/emo.html>`_
 #. How was your memory performance for the different types (positive, negative, neutral) of words? Why do you think this was the case? Did you use different encoding and/or retrieval strategies for the different types of words?
 #. (Optional). Feel free to share any additional comments.
 
+View class data:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`R notebook <http://web.stanford.edu/class/psych45/demos/Psych45_Mia4_Results.nb.html>`_
+
 ----------------
 
 

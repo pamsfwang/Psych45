@@ -14,7 +14,7 @@ library(rmarkdown)
 library(stringr)
 library(plotly)
 sem <- function(x) {sd(x, na.rm=T) / sqrt(length(x))}
-render_this <- function(){rmarkdown::render('Psych45_Mia4_Results.Rmd', output_dir = '/Users/zeynepenkavi/Documents/Psych45/WWW/demo_files', html_notebook(toc = T, toc_float = T, code_folding = 'hide'))}
+render_this <- function(){rmarkdown::render('Psych45_Mia4_Results.Rmd', output_dir = '/Users/zeynepenkavi/Documents/Psych45/WWW/demos', html_notebook(toc = T, toc_float = T, code_folding = 'hide'))}
 options(scipen = 1, digits = 4)
 ```
 
