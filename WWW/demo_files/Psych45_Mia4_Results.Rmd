@@ -1,0 +1,189 @@
+---
+title: 'Psych 45 MIA 4 Results (Spring 2017)'
+output:
+github_document:
+toc: yes
+toc_float: yes
+---
+
+```{r, message=FALSE, warning=FALSE, include=FALSE}
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(rmarkdown)
+library(stringr)
+library(plotly)
+sem <- function(x) {sd(x, na.rm=T) / sqrt(length(x))}
+render_this <- function(){rmarkdown::render('Psych45_Mia4_Results.Rmd', output_dir = '/Users/zeynepenkavi/Documents/Psych45/WWW/demo_files', html_notebook(toc = T, toc_float = T, code_folding = 'hide'))}
+options(scipen = 1, digits = 4)
+```
+
+# Data Preparation
+
+Read in data
+
+```{r}
+dt <- read.csv('/Users/zeynepenkavi/Documents/Psych45/WWW/demo_files/Psych45_MIA4 (Responses) - Form Responses 1.csv')
+```
+
+Exclude test data
+
+```{r}
+names(dt) <- c("Timestamp", "Name", "Words", "Responses")
+
+dt = dt%>%
+  filter(Name != "Test" ) %>%
+  distinct(Name, .keep_all=TRUE)
+```
+
+Convert to long format
+
+```{r message=FALSE, warning=FALSE}
+longify = function(data){
+  
+  Words  = unlist(strsplit(gsub("\"|\\[|\\]| |\n", "", as.character(data$Words)), ","))
+  Responses = unlist(strsplit(gsub("\"|\\[|\\]| |\n", "", as.character(data$Responses)), ","))
+  
+  if(length(Words) == length(Responses)){
+    out = data.frame(word = Words, response = Responses)
+  }
+  
+  else {
+    Warning = paste("Warning: Longify failes for subject", unique(data$Name))
+    out = data.frame(word = Warning, response = NA)
+    }
+  
+   return(out)
+}
+
+dt_long = dt %>% 
+  group_by(Name) %>%
+  do(longify(.)) %>%
+  drop_na()
+```
+
+Add valence and arousal info
+
+```{r}
+list_info = read.csv('/Users/zeynepenkavi/Documents/Psych45/WWW/demo_files/valence_ratings.csv')
+list_info$word = as.character(list_info$word)
+
+
+dt_long = dt_long %>%
+  left_join(list_info, by = "word")
+
+```
+
+# Results
+
+## Do participants remember more emotional than neutral words?
+
+```{r}
+dt_long %>%
+  group_by(valence) %>%
+  summarise(prop_remb = sum(as.numeric(response))/n(),
+            sem_remb = sem(as.numeric(response))) %>%
+  ggplot(aes(x = valence, y = prop_remb, col=valence))+
+  geom_point()+
+  geom_errorbar(aes(ymin = prop_remb - sem_remb, ymax = prop_remb+sem_remb), position=position_dodge(0.9), width=0.25)+
+  theme_classic()+
+  scale_color_manual(values=c("red", "blue","green"))+
+  theme(legend.position = "none")+
+  ylab("Proportion remembered")+
+  ylim(c(0.2, 0.5))
+```
+
+## Most commonly retrieved words
+
+```{r}
+dt_long %>%
+  group_by(word) %>%
+  summarise(prop_remb = sum(as.numeric(response))/n()) %>%
+  arrange(-prop_remb)
+```
+
+## Serial position effect
+
+```{r}
+dt_long = dt_long %>%
+  group_by(Name) %>%
+  mutate(serial_position = 1:n()) %>%
+  mutate(serial_category = ifelse(serial_position <6, "primacy", ifelse(serial_position>40, "recency", "middle"))) %>%
+  mutate(serial_category = factor(serial_category,levels = c("primacy", "middle", "recency"))) %>%
+  ungroup()
+```
+
+### Categorical
+
+```{r}
+dt_long %>%
+  group_by(serial_category) %>%
+  summarise(prop_remb = sum(as.numeric(response))/n(),
+            sem_remb = sem(as.numeric(response))) %>%
+  ggplot(aes(serial_category, prop_remb))+
+  geom_point()+
+  geom_line(group=1)+
+  geom_errorbar(aes(ymin = prop_remb - sem_remb, ymax = prop_remb+sem_remb), position=position_dodge(0.9), width=0.25)+
+  theme_classic()+
+  ylim(c(0.2, 0.6))+
+  ylab("Proportion remembered")
+```
+
+### Continuous
+
+```{r warning=FALSE, message=FALSE}
+dt_long %>%
+  group_by(serial_position) %>%
+  summarise(prop_remb = sum(as.numeric(response))/n(),
+            sem_remb = sem(as.numeric(response))) %>%
+  ggplot(aes(serial_position, prop_remb))+
+  geom_point()+
+  geom_errorbar(aes(ymin = prop_remb - sem_remb, ymax = prop_remb+sem_remb), position=position_dodge(0.9), width=0.25)+
+  theme_classic()+
+  geom_smooth()+
+  ylab("Proportion remembered")
+```
+
+## Is probability of recalling words in the middle of the list higher if the word is emotional?
+
+```{r}
+dt_long %>%
+  group_by(serial_category, valence) %>%
+  summarise(prop_remb = sum(as.numeric(response))/n(),
+            sem_remb = sem(as.numeric(response))) %>%
+  ggplot(aes(serial_category, prop_remb, group= valence, fill=valence))+
+  geom_bar(stat='identity', position=position_dodge())+
+  geom_errorbar(aes(ymin = prop_remb - sem_remb, ymax = prop_remb+sem_remb), position=position_dodge(0.9), width=0.25)+
+  scale_fill_manual(values=c("red", "green", "blue"))+
+  theme_classic()+
+  ylab("Proportion remembered")
+```
+
+```{r message=FALSE}
+dt_long %>%
+  group_by(serial_position, valence)%>%
+  summarise(prop_remb = sum(as.numeric(response))/n(),
+            sem_remb = sem(as.numeric(response))) %>%
+  ggplot(aes(serial_position, prop_remb, group= valence, col=valence))+
+  geom_point(position=position_dodge(0.9), alpha=0.2)+
+  geom_smooth(alpha = 0.5)+
+  # geom_errorbar(aes(ymin = prop_remb - sem_remb, ymax = prop_remb+sem_remb), position=position_dodge(0.9), width=0.25)+
+  scale_fill_manual(values=c("red", "green", "blue"))+
+  theme_classic()+
+  ylab("Proportion remembered")
+```
+
+## Effect of valence/arousal on retrieval of each word
+
+```{r message=FALSE}
+dt_long %>%
+  group_by(valence_mean) %>%
+  summarise(prop_remb = sum(as.numeric(response))/n(),
+            sem_remb = sem(as.numeric(response))) %>%
+  ggplot(aes(valence_mean, prop_remb))+
+  geom_point()+
+  geom_smooth(se=FALSE)+
+  theme_classic()+
+  ylab("Proportion remembered")+
+  xlab("Valence rating")
+```
