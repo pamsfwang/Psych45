@@ -87,4 +87,13 @@ View class data:
 5/31: MiA #5: Memory errors
 ------------------------------------------------------
 
+For two days keep a memory errors journal. Try to pay attention to situations where your memory fails you that you might not usually notice, and ask yourself: Why did I behave this way? Were there certain types of circumstances that produced these errors? What could I have done to prevent this from happening?
+
+Try to think of at least one instance of each of the following:
+
+#. Forgetting
+#. False memory
+
+Please submit whatever examples you feel comfortable sharing from your journal **by no later than 9 AM on Weds (5/31)**.
+
 ----------------
