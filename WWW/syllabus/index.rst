@@ -14,7 +14,7 @@ People
 \                       Email (@stanford.edu)      Office Hrs (and by appointment)      Office Location
 ======================  =========================  ===================================  ====================
 Anthony Wagner          awagner                    Tues 10:30 am-11:30 pm                Jordan Hall, Rm 402
-Zeynep Enkavi           zenkavi                    Wed 12:00-1:00 pm                     Jordan Hall, Rm 425
+Zeynep Enkavi           zenkavi                    Wed 12:00-1:00 pm                     Jordan Hall, Rm 424
 Anna Khazenzon          annakhaz                   Fri 1:00-2:00 pm                      Jordan Hall, Rm 409
 Shao-Fang (Pam) Wang    shaofang                   Mon 10:00-11:00am                     Jordan Hall, Rm 409
 ======================  =========================  ===================================  ====================
