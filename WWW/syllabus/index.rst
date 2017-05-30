@@ -64,7 +64,7 @@ Articles:
 Written Assignment: Memory in *Memento*
 --------------------------------------------
 
-**Due June 01, 2017, immediately after class**
+**Due 12pm June 03, 2017**
 
 For the written assignment, students are asked to submit a 4-page (double-spaced) paper that
 summarizes and critiques the accuracy of how memory is depicted in the movie Memento. The objective of
