@@ -36,8 +36,8 @@ How to Watch Memento
 
 The easiest way to watch *Memento* is to come to one of the class screenings:
 
-- May 12 (Th) at 7 PM, Location TBA
-
 - May 17 (Tu) at 7 PM, Location TBA
+
+- May 22 (Th) at 7 PM, Location TBA
 
 The library has three copies of the DVD that can be rented for free [`link <http://searchworks.stanford.edu/view/4804595>`_]

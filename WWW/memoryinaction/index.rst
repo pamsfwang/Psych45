@@ -20,13 +20,6 @@ submit your answers to these questions on Canvas **by no later than 9 AM on Weds
 #. How did the 2-back task compare to the 3-back (or 4-back, etc. if you tried it)?
 #. How could you change the task to make it easier or harder, other than changing the number of targets (n)?
 
-View class data:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-`html <https://nbviewer.jupyter.org/url/web.stanford.edu/class/psych45/demos/n-back_stats.ipynb>`_
-
-`Jupyter notebook <http://web.stanford.edu/class/psych45/demos/n-back_stats.ipynb>`_
-
 ----------------
 
 
@@ -43,13 +36,6 @@ these questions **by 9 AM on Weds 4/19**.
 #. Do you think the effect would be larger or smaller if, instead of identifying the color that color words were printed in, you were identifying the font that different font names were printed in? What about numbers in different font sizes? Explain your thinking.
 #. Is there an example of the Stroop effect you've observed in the real world?
 
-View class data:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-`Jupyter notebook <https://github.com/sgagnon/Psych45/blob/master/WWW/demo_files/stroop_stats.ipynb>`_
-
-----------------
-
 
 5/10: MiA #3: Semantic memory
 ------------------------------------------------------
@@ -58,12 +44,6 @@ View class data:
 #. Choose one of the categories (i.e., fruit, sport, bird, vehicle, crime, vegetable), and list what you consider the most important defining features of that category.
 
 Please complete the task and then submit your responses to the following prompts to Canvas **by no later than 9 AM on Weds (5/10)**.
-
-View class data:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-`Jupyter notebook <https://github.com/sgagnon/Psych45/blob/master/WWW/demos/Semantic_demo_stats.ipynb>`_
-
 
 ----------------
 
@@ -75,11 +55,6 @@ Please complete the demo `here <http://web.stanford.edu/~zenkavi/emo/emo.html>`_
 #. What type of encoding instructions were used? What type of memory test was used? Based on what we’ve learned about this type of memory test, what serial positions are you more likely to remember when performing this type of task?
 #. How was your memory performance for the different types (positive, negative, neutral) of words? Why do you think this was the case? Did you use different encoding and/or retrieval strategies for the different types of words?
 #. (Optional). Feel free to share any additional comments.
-
-View class data:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-`R notebook <http://web.stanford.edu/class/psych45/demos/Psych45_Mia4_Results.nb.html>`_
 
 ----------------
 
