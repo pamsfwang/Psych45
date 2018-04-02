@@ -8,17 +8,17 @@ Instructor:
 
 Anthony Wagner
 
-2017 Teaching Assistants:
+2018 Teaching Assistants:
 ~~~~~~~~~~~~~~~~~~~~
 
-Zeynep Enkavi, Anna Khazenzon, Shao-Fang (Pam) Wang
+Tyler Bonnen, Andrew Lampinen, Shao-Fang (Pam) Wang
 
 Course Pages:
 ~~~~~~~~~~~~~~~~~~~~
 
 In addition to this page, please visit:
 
-- `Piazza <https://piazza.com/stanford/spring2017/psych45/home>`_ for asking and answering questions
+- `Piazza <https://piazza.com/stanford/spring2018/psych45/home>`_ for asking and answering questions
 
 - `Canvas <https://canvas.stanford.edu/courses/63017>`_ for lecture slides and other materials
 
@@ -32,4 +32,4 @@ Contents
    memoryinaction/index.rst
    demos/index.rst
    resources/index.rst
-   2016/index.rst
+   2017/index.rst
