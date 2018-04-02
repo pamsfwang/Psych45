@@ -1,4 +1,4 @@
-2016 Website
+2017 Website
 ======================================================
 
 Other than that which is genetically coded, everything we know is derived from and reflects memory for our past.
@@ -12,17 +12,17 @@ Instructor:
 
 Anthony Wagner
 
-2016 Teaching Assistants:
+2017 Teaching Assistants:
 ~~~~~~~~~~~~~~~~~~~~
 
-Steph Gagnon, Ian Ballard, Kevin Mickey, and Kyle MacDonald
+Zeynep Enkavi, Anna Khazenzon, Shao-Fang (Pam) Wang
 
 Course Pages:
 ~~~~~~~~~~~~~~~~~~~~
 
 In addition to this page, please visit:
 
-- `Piazza <https://piazza.com/stanford/spring2016/psych45/home>`_ for asking and answering questions
+- `Piazza <https://piazza.com/stanford/spring2017/psych45/home>`_ for asking and answering questions
 
 - `Canvas <https://canvas.stanford.edu/courses/23997>`_ for lecture slides and other materials
 
@@ -32,6 +32,6 @@ Contents
 .. toctree::
    :maxdepth: 1
 
-   syllabus_2016/index.rst
-   demos_2016/index.rst
-   resources_2016/index.rst
+   syllabus_2017/index.rst
+   demos_2017/index.rst
+   resources_2017/index.rst
